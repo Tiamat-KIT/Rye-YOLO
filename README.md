@@ -3,3 +3,8 @@
 [Pythonのバージョンについて](https://zenn.dev/tonio_26/articles/03998b42a4e800#%E5%8E%9F%E5%9B%A0%E3%81%A8%E8%A7%A3%E6%B1%BA%E7%AD%96)
 [`ImportError: libGL.so.1: cannot open shared object fil e: No such file or directory`というエラーについて
 ](https://qiita.com/toshitanian/items/5da24c0c0bd473d514c8)
+[Rye使い方](https://dev.classmethod.jp/articles/get-start-rye-python/)
+
+## ONNX変換
+[YOLOv8のモデルをUnity Barracudaで開けるonnx形式に変換
+](https://symfoware.blog.fc2.com/blog-entry-2748.html)
