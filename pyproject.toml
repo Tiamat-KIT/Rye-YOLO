@@ -1,0 +1,26 @@
+[project]
+name = "rye-yolo"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Tiamat-KIT", email = "c1101081@planet.kanazawa-it.ac.jp" }
+]
+dependencies = [
+    "ultralytics>=8.0.225",
+    "torch>=2.1.1",
+    "torchvision>=0.16.1",
+    "torchaudio>=2.1.1",
+]
+readme = "README.md"
+requires-python = ">= 3.11"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
